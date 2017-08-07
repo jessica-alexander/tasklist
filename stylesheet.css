@@ -95,3 +95,18 @@ a{
 form {
   float: right;
 }
+
+input.task-field {
+    background: inherit;
+    border: none;
+    border-bottom: solid white 1px;
+    margin-right: 10px;
+    width: 300px;
+}
+
+
+
+
+
+
+}
