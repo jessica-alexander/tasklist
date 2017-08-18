@@ -104,7 +104,9 @@ input.task-field {
     width: 300px;
 }
 
-
+.task-form{
+  display: none;
+}
 
 
 
